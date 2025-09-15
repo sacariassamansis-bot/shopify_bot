@@ -1,0 +1,7 @@
+python-telegram-bot==20.8
+requests
+beautifulsoup4
+fastapi
+uvicorn
+python-dotenv
+deep-translator
