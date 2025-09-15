@@ -1,1 +1,2 @@
-worker: python bot_fixed.py
+worker: python shopify_bot.py
+
